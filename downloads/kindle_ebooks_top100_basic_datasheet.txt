@@ -1,0 +1,101 @@
+"ASIN"	"ResultRank"	"Title"	"Author"	"SalesRank"	"isInKU"	"ReleaseDate"	"nPages"	"Price"	"averageReview"	"nReviews"
+"B015X5KBJG"	1	"Milk and Honey"	"Rupi Kaur"	1	TRUE	2015-10-06	210	6.4	4.6	3276
+"B06XGFQ23J"	2	"Pretty Girls Dancing"	"Kylie Brant"	2	FALSE	2018-01-01	370	4.99	4.4	86
+"B00C5R73JC"	3	"W is for Wasted: A Kinsey Millhone Novel"	"Sue Grafton"	3	FALSE	2013-09-10	498	1.99	4.3	3809
+"B06XKRKFZL"	4	"A River in Darkness: One Man's Escape from North Korea"	"Masaji Ishikawa"	4	FALSE	2018-01-01	155	4.99	4.8	251
+"B01KXQ8SS6"	5	"A Criminal Defense"	"Jr., William L. Myers"	5	TRUE	2017-04-01	382	3.99	4.4	4205
+"B06X3QKWLG"	6	"How to Instant Pot: Mastering All the Functions of the One Pot That Will Change the Way You Cook"	"Daniel Shumski"	6	FALSE	2017-10-31	288	1.99	4.3	14
+"B06XTQ4YD1"	7	"Daughters of the Night Sky"	"Aimie K. Runyan"	7	FALSE	2018-01-01	312	4.99	4.5	72
+"B007MKCQ30"	8	"The Price of Inequality: How Today's Divided Society Endangers Our Future"	"Joseph E. Stiglitz"	8	TRUE	2013-04-08	449	9.99	4.4	500
+"B0776SH1ML"	9	"The Sign of the Beast (Kindle Single)"	"Joyce Carol Oates"	9	TRUE	2017-11-28	40	1.99	3.4	41
+"B0192CTMYG"	10	"Harry Potter and the Sorcerer's Stone"	"J.K. Rowling"	10	TRUE	2015-12-08	322	8.99	4.8	58829
+"B06ZY1HXKC"	11	"Only the Rain"	"Randall Silvis"	11	FALSE	2018-01-01	186	4.99	4.1	82
+"B01B1OGQH4"	12	"Blood on the Tracks (Sydney Rose Parnell Series Book 1)"	"Barbara Nickless"	12	TRUE	2016-10-01	386	4.99	4.5	5446
+"B0751BNQH4"	13	"Crown Heights (Kindle Single)"	"Colin Warner,Carl King,Holly Lorincz"	13	TRUE	2017-11-28	103	1.99	4.5	13
+"B015X2PGFI"	14	"Project Smoke: Seven Steps to Smoked Food Nirvana, Plus 100 Irresistible Recipes from Classic (Slam-Dunk Brisket) to Adventurous (Smoked Bacon-Bourbon Apple Crisp)"	"Steven Raichlen"	14	FALSE	2016-05-10	336	1.99	4.7	548
+"B00JVVQQ1G"	15	"Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck"	"Thug Kitchen"	15	TRUE	2014-10-07	204	9.99	4.6	4921
+"B003ZX868W"	16	"Animal Farm and 1984"	"George Orwell"	16	TRUE	2003-06-01	405	12.99	4.5	3836
+"B06WP486XH"	17	"The Midnight Line: A Jack Reacher Novel"	"Lee Child"	17	FALSE	2017-11-07	385	14.99	4.4	1444
+"B01L1CEZ6K"	18	"Beneath a Scarlet Sky: A Novel"	"Mark Sullivan"	18	TRUE	2017-05-01	526	5.99	4.8	13243
+"B077L6Z8L4"	19	"Surprise Package: A Bad Boy Christmas Romance"	"Kira Blakely"	19	TRUE	2017-11-17	220	0.99	4.6	322
+"B06WGTZXG7"	20	"End Game (Will Robie Series)"	"David Baldacci"	20	FALSE	2017-11-14	448	14.99	4.2	380
+"B005CRQ4OW"	21	"Diary of a Wimpy Kid (Diary of a Wimpy Kid, Book 1)"	"Jeff Kinney"	21	TRUE	2012-10-30	226	3.62	4.7	11359
+"B01MXPF3TT"	22	"Halsey Street"	"Naima Coster"	22	FALSE	2018-01-01	331	4.99	3.8	19
+"B007978OY6"	23	"The Lord of the Rings: One Volume"	"J.R.R. Tolkien"	23	TRUE	2012-02-15	1209	16.99	4.7	19048
+"B06X6G8FKH"	24	"Year One: Chronicles of the One, Book 1"	"Nora Roberts"	24	FALSE	2017-12-05	419	14.99	4.4	217
+"B0758BXT88"	25	"The Secret Child: A gripping novel of family secrets"	"Kerry Fisher"	25	FALSE	2017-11-29	348	0.99	4.4	21
+"B01MFGX5GI"	26	"Stillhouse Lake (Stillhouse Lake Series Book 1)"	"Rachel Caine"	26	TRUE	2017-07-01	302	1.99	4.5	7123
+"B01DNJMO76"	27	"Say Goodbye for Now"	"Catherine Ryan Hyde"	27	TRUE	2016-12-13	366	1.99	4.7	1607
+"B01LY7FD0D"	28	"Origin: A Novel"	"Dan Brown"	28	FALSE	2017-10-03	482	14.99	4.2	3212
+"B07693HRS9"	29	"Darker: Fifty Shades Darker as Told by Christian (Fifty Shades of Grey Series)"	"E L James"	29	FALSE	2017-11-28	560	9.99	4.7	507
+"B077X6ZFN7"	30	"Three Trials (The Dark Side Book 2)"	"Kristy Cunning"	30	TRUE	2017-12-02	210	0.99	4.9	210
+"B077X3ZP5V"	31	"The British Knight"	"Louise Bay"	31	FALSE	2017-12-03	342	2.99	4.7	135
+"B06Y1264PX"	32	"I Am Watching You"	"Teresa Driscoll"	32	TRUE	2017-10-01	302	4.99	4.5	3535
+"B01MAXRPT2"	33	"Christmas with the Sheriff (Shadow Creek, Montana Book 1)"	"Victoria James"	33	FALSE	2016-11-07	145	0.99	4.5	66
+"B0142IHZPI"	34	"When I'm Gone: A Novel"	"Emily Bleeker"	34	TRUE	2016-03-15	365	1.99	4.3	8137
+"B01N6YQAPS"	35	"The Rooster Bar"	"John Grisham"	35	FALSE	2017-10-24	465	14.99	3.7	1568
+"B077LYFN2X"	36	"The Cabin"	"Alice Ward"	36	TRUE	2017-11-18	NA	0.99	4.7	325
+"B00AFKISKO"	37	"The Art Forger: A Novel"	"B. A. Shapiro"	37	TRUE	2013-05-21	386	8.33	4.3	3023
+"B077QXNFBV"	38	"Saving Scarlett: A Firefighter Next Door Romance"	"Emily Bishop"	38	TRUE	2017-11-24	274	0.99	4.6	181
+"B077WRQ889"	39	"Super Sales on Super Heroes: Book 2"	"William D. Arand"	39	TRUE	2017-12-02	382	4.99	4.7	115
+"B07282K7L7"	40	"What Remains True: A Novel"	"Janis Thomas"	40	TRUE	2017-12-01	337	4.99	4.4	404
+"B06XFV4X2V"	41	"The People vs. Alex Cross"	"James Patterson"	41	FALSE	2017-11-20	432	14.99	4.8	87
+"B077YL9LDS"	42	"6 Mountain Brothers for Christmas: A Reverse Harem Romance"	"Rye Hart"	42	TRUE	2017-12-05	596	0.99	4.8	223
+"B0779L6W9S"	43	"Crank (The Gibson Boys Book 1)"	"Adriana Locke"	43	TRUE	2017-11-08	284	3.99	4.8	477
+"B077V1CB2W"	44	"Snow Job: Stranded with a Possessive Billionaire Romance"	"Eva Luxe"	44	TRUE	2017-11-29	1456	0.99	4.3	121
+"B003JFJHTS"	45	"The Handmaid's Tale"	"Margaret Atwood"	45	TRUE	1986-02-17	325	9.99	4.1	9757
+"B01M14UN1J"	46	"Before We Were Yours: A Novel"	"Lisa Wingate"	46	FALSE	2017-06-06	334	12.99	4.7	3922
+"B077SW8D6N"	47	"Lead Dragon (Dragon Guard of Drakkaris Book 1)"	"Terry Bolryder"	47	TRUE	2017-11-27	201	0.99	4.9	134
+"B077Y7K6YW"	48	"BIG MAN"	"Penny Wylder"	48	TRUE	2017-12-05	193	0.99	4.6	112
+"B06Y55SB48"	49	"Artemis: A Novel"	"Andy Weir"	49	FALSE	2017-11-14	322	13.99	3.9	539
+"B077RXG4QB"	50	"The Plan: A Standalone Off-Limits Romance"	"Ella James"	50	TRUE	2017-11-26	412	3.99	4.4	168
+"B00OL7M9AW"	51	"A Christmas Bride"	"Jo Ann Ferguson"	51	FALSE	2014-12-09	224	0.99	4	64
+"B077Z8BJ6T"	52	"Baby Daddy"	"Lauren Landish"	52	TRUE	2017-12-06	398	0.99	4.8	63
+"B06XRBSW6Y"	53	"Don't Forget Dexter! (Dexter T. Rexter Series Book 1)"	"Lindsay Ward"	53	FALSE	2018-01-01	32	4.99	4.4	115
+"B06W9NKRXG"	54	"Two Kinds of Truth (A Harry Bosch Novel)"	"Michael Connelly"	54	FALSE	2017-10-31	417	14.99	4.7	958
+"B00B77UDXO"	55	"Coming Clean: A Memoir"	"Kimberly Rae Miller"	55	TRUE	2013-07-23	271	5.99	4.5	2365
+"B01LZF038I"	56	"The Lighthouse Keeper"	"Cynthia Ellingsen"	56	TRUE	2017-04-04	382	1.99	4.4	1124
+"B0723DT3YX"	57	"Her Sister's Shoes (Sweeney Sisters Series Book 1)"	"Ashley Farley"	57	TRUE	2017-08-08	382	0.99	4.4	515
+"B077T4YYJ7"	58	"Prison Fling:  A Dark Bad Boy Romance"	"Cassandra Dee,Katie Ford"	58	TRUE	2017-11-28	NA	0.99	4.6	188
+"B06ZZLYVCG"	59	"The Last Black Unicorn"	"Tiffany Haddish"	59	FALSE	2017-12-05	288	12.99	4.8	42
+"B072M81KPL"	60	"Magnolia Nights"	"Ashley Farley"	60	TRUE	2017-09-12	294	0.99	4.4	275
+"B005ARRA9W"	61	"Forks Over Knives: The Plant-Based Way to Health"	""	61	FALSE	2011-06-28	226	1.99	4.5	905
+"B01DYC10NG"	62	"Hard Road (Jon Reznick Thriller Series Book 1)"	"J. B. Turner"	62	TRUE	2016-08-16	334	1.99	4.3	759
+"B0192CTMW8"	63	"Harry Potter and the Chamber of Secrets"	"J.K. Rowling"	63	TRUE	2015-12-08	357	8.99	4.8	58829
+"B077YLSQT4"	64	"Cadmium Dragon (Dragon Guard of Drakkaris Book 2)"	"Terry Bolryder"	64	TRUE	2017-12-05	175	0.99	4.9	88
+"B00KLDEKX4"	65	"Sheet Pan Suppers: 120 Recipes for Simple, Surprising, Hands-Off Meals Straight from the Oven"	"Molly Gilbert"	65	FALSE	2014-12-02	305	1.99	4.2	474
+"B005LVR6ZA"	66	"Ubik"	"Philip K. Dick"	66	TRUE	2012-04-17	241	9.99	4.2	441
+"B01N4VW75U"	67	"Little Fires Everywhere"	"Celeste Ng"	67	FALSE	2017-09-12	352	13.99	4.4	726
+"B0027MJU4G"	68	"Paul Newman: A Life"	"Shawn Levy"	68	FALSE	2009-05-05	514	1.99	4	200
+"B003P9XMFI"	69	"The Hangman's Daughter: [Kindle in Motion] (A Hangman's Daughter Tale Book 1)"	"Oliver Pötzsch"	69	TRUE	2010-12-07	448	1.99	4.1	4850
+"B0192CTMX2"	70	"Harry Potter and the Prisoner of Azkaban"	"J.K. Rowling"	70	TRUE	2015-12-08	475	8.99	4.8	58829
+"B077X13RYZ"	71	"The Christmas Surprise: A Billionaire Single Daddy Romance"	"R.R. Banks"	71	TRUE	2017-12-02	314	0.99	4.7	226
+"B077T6RFQD"	72	"Planting His Seed (Hot-Bites Novella)"	"Jenika Snow,Jordan Marie"	72	TRUE	2017-11-28	112	0.99	4.5	93
+"B0777KNG89"	73	"Four Psychos (The Dark Side Book 1)"	"Kristy Cunning"	73	TRUE	2017-11-06	210	0.99	4.9	496
+"B0784VPRSF"	74	"The Forbidden Sitter: A Billionaire Holiday Romance (Nightclub Sins Book 1)"	"Michelle Love"	74	TRUE	2017-11-28	1181	0.99	4.7	128
+"B06XNPT7FQ"	75	"The Unremembered Girl: A Novel"	"Eliza Maxwell"	75	TRUE	2017-11-01	334	4.99	4.3	1191
+"B0777QH516"	76	"A Shade of Vampire 53: A Hunt of Fiends"	"Bella Forrest"	76	TRUE	2017-12-06	320	3.99	4.9	32
+"B00G1J1QFM"	77	"The Best Punctuation Book, Period: A Comprehensive Guide for Every Writer, Editor, Student, and Businessperson"	"June Casagrande"	77	FALSE	2014-04-15	256	2.99	4.7	76
+"B00LWE0QZM"	78	"The Dead Key"	"D. M. Pulley"	78	TRUE	2015-03-01	467	5.99	4.2	8818
+"B0036S4AQI"	79	"Davita's Harp"	"Chaim Potok"	79	FALSE	2010-03-10	385	1.99	4.2	72
+"B004H0M8E0"	80	"Warprize (Chronicles of the Warlands Book 1)"	"Elizabeth Vaughan"	80	FALSE	2011-04-05	340	1.99	4.4	267
+"B0751GJLRN"	81	"The Secret Mother: A gripping psychological thriller that will have you hooked"	"Shalini Boland"	81	FALSE	2017-11-09	244	2.99	4.6	131
+"B01N2T9M01"	82	"Love Real Food: More Than 100 Feel-Good Vegetarian Favorites to Delight the Senses and Nourish the Body"	"Kathryne Taylor"	82	FALSE	2017-05-16	272	2.99	4.9	340
+"B0192CTMXM"	83	"Harry Potter and the Order of the Phoenix"	"J.K. Rowling"	83	TRUE	2015-12-08	901	8.99	4.8	58829
+"B01L83TSVO"	84	"The No Meat Athlete Cookbook: Whole Food, Plant-Based Recipes to Fuel Your Workouts-and the Rest of Your Life"	"Matt Frazier,Stepfanie Romine"	84	FALSE	2017-05-16	288	2.24	4.6	97
+"B06XHK8WRL"	85	"The Last Move"	"Mary Burton"	85	TRUE	2017-09-19	338	1.99	4.7	237
+"B00NUB4GFQ"	86	"Misbehaving: The Making of Behavioral Economics"	"Richard H. Thaler"	86	TRUE	2015-05-11	432	8.98	4.4	314
+"B075FJWH6Q"	87	"A Death in White Bear Lake: The True Chronicle of an All-American Town"	"Barry Siegel"	87	FALSE	2017-09-26	524	1.99	4.5	49
+"B0192CTMUU"	88	"Harry Potter and the Goblet of Fire"	"J.K. Rowling"	88	TRUE	2015-12-08	247	8.99	4.8	58829
+"B077XKBQRT"	89	"Christmas Daddy Next Door: A Single Dad and Baby Romance"	"Tia Siren"	89	TRUE	2017-12-03	1333	0.99	4.6	131
+"B001VA1PP2"	90	"The Moonflower Vine: A Novel (P.S.)"	"Jetta Carleton"	90	FALSE	2009-10-06	349	1.99	4.4	333
+"B01NAWAH85"	91	"Oathbringer: Book Three of the Stormlight Archive"	"Brandon Sanderson"	91	FALSE	2017-11-14	1220	16.99	4.7	514
+"B06XJ14MXH"	92	"The House Next Door: A Ghost Story"	"Darcy Coates"	92	TRUE	2017-03-15	282	0.99	4.5	128
+"B01N3KJB3E"	93	"Hardcore Twenty-Four (Stephanie Plum Book 24)"	"Janet Evanovich"	93	FALSE	2017-11-14	296	13.99	3.9	748
+"B077WXFYNL"	94	"Behind the Bars"	"Brittainy Cherry"	94	TRUE	2017-12-07	373	2.99	4.8	120
+"B0192CTMWS"	95	"Harry Potter and the Deathly Hallows"	"J.K. Rowling"	95	TRUE	2015-12-08	316	8.99	4.8	58829
+"B077VYXZH6"	96	"Goldicox: An MFMM Menage Fairy Tale Romance"	"Abby Angel,Daphne Dawn"	96	TRUE	2017-11-30	256	0.99	4.6	157
+"B0777JQK31"	97	"Instant Pot Cookbook: The Complete Instant Pot Cookbook - Delicious and Simple Recipes For Your Instant Pot Pressure Cooker (Electric Pressure Cooker Cookbook)"	"Tricia Brown"	97	TRUE	2017-11-06	136	0.99	4.4	228
+"B01NCV01MG"	98	"The Memory of Butterflies: A Novel"	"Grace Greene"	98	TRUE	2017-09-05	290	1.99	4.6	264
+"B01MF4ZMSO"	99	"Come Home to Sweetgrass Boxed Set: Books 1-3 Gallaghers of Sweetgrass Springs plus bonus Christmas novella (Texas Heroes)"	"Jean Brashear"	99	FALSE	2016-10-20	651	0.99	4.4	30
+"B0785Y7XVG"	100	"Use Your Heart and Not Your Eyes"	"Natavia"	100	TRUE	2017-12-08	358	8.99	5	27

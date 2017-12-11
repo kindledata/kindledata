@@ -1,6 +1,6 @@
 ---
 title: Reverse Harem Report
-category: Search Reports
+category: Buy Search Reports
 order: 2
 ---
 

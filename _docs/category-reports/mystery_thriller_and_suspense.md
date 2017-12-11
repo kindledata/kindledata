@@ -1,6 +1,6 @@
 ---
 title: Mystery, Thriller and Suspense Categories
-category: Category Reports
+category: Buy Category Reports
 order: 3
 ---
 

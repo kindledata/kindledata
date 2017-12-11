@@ -1,6 +1,6 @@
 ---
 title: Literature & Fiction Categories
-category: Category Reports
+category: Buy Category Reports
 order: 2
 ---
 

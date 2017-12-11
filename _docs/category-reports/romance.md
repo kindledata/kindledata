@@ -1,6 +1,6 @@
 ---
 title: Romance Categories
-category: Category Reports
+category: Buy Category Reports
 order: 1
 ---
 

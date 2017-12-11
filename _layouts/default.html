@@ -7,10 +7,39 @@
 		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
 
 		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic|Open+Sans:400,400italic,600,600italic,700,700italic|Inconsolata:400,700">
+
+		<!-- Override CSS file - add your own CSS rules -->
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
+
+		<!-- Bootstrap Core CSS file -->
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css">
+
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+		<link href="//cdn.rawgit.com/noelboss/featherlight/1.7.11/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+		<link href="//cdn.rawgit.com/noelboss/featherlight/1.7.11/release/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
+
+  <style type="text/css">
+    .inline { display: none }
+.featherlight .legend {
+    position: absolute;
+    bottom: 0;
+    font-size: larger;
+    color: black;
+}
+  </style>
+
+  <style type="text/css">
+.featherlight-image {
+    width: auto !important;
+    height: auto !important;
+    max-width: 100%;
+    max-height: 70vh;
+}
+</style>
+
 
 		{% feed_meta %}
 		{% seo %}
@@ -72,9 +101,9 @@
 				</ul>
 
 				<ul>
-					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
-						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
-						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
+					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
+						{% assign home = site.html_pages | where: 'url', '/' | first %}
+						<a href="mailto:nose@kindledata.com">Questions? Contact nose@kindledata.com</a>
 					</li>
 				</ul>
 			</nav>
@@ -95,5 +124,13 @@
 				document.body.classList.toggle("nav-open");
 			});
 		</script>
+
+		<script src="//code.jquery.com/jquery-latest.js"></script>
+		<script src="//cdn.rawgit.com/noelboss/featherlight/1.7.11/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//cdn.rawgit.com/noelboss/featherlight/1.7.11/release/featherlight.gallery.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/scripts/featherlight_gallery_add_caption_7.js" type="text/javascript" charset="utf-8"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/detect_swipe/2.1.1/jquery.detect_swipe.min.js"></script>
+
+
 	</body>
 </html>

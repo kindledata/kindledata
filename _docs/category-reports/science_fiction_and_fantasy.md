@@ -1,6 +1,6 @@
 ---
 title: Science Fiction and Fantasy Categories
-category: Category Reports
+category: Buy Category Reports
 order: 4
 ---
 

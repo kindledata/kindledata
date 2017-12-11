@@ -1,6 +1,6 @@
 ---
 title: LitRPG Report
-category: Search Reports
+category: Buy Search Reports
 order: 1
 ---
 
