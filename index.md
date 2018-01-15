@@ -3,7 +3,7 @@ title: What's this?
 ---
 _ebook data and analysis for the Kindle Store in an easy-to-use format_
 
-To be a successful self-published author with Amazon, you need to spend a lot of time on research.  Kindle Data Reports accelerate your research by doing the grunt-work for you; title information for a category, subcategory or search result collected into a spreadsheet or text file.  **Here's what you get:**
+To be a successful self-published author with Amazon, you need to spend a lot of time on research.  Kindle Data Reports accelerate your research by doing the grunt-work for you.  **Here's what you get in every report:**
 
 <div class="container-fluid">
 <section data-featherlight-gallery data-featherlight-filter="a">
@@ -94,6 +94,6 @@ In a Kindle Data Report you get this in a spreadsheet or text file for _any_ of 
 <!-- /.row -->
 </div>	
 
-Reports are updated every two weeks, giving you timely access to information.  Buy a single report, or [subscribe for access to everything](/subscribe/) for one price.
+Reports are updated every two weeks, giving you timely access to information.  Buy a single report for **USD20**, or [subscribe for access to everything](/subscribe/) for one price of **USD30/month**.
 
 *Payment and delivery of reports is handled securely by [Gumroad](https://gumroad.com/).  Learn about safe buying on Gumroad [here](https://help.gumroad.com/safe-buying-on-gumroad).  For questions, comments or suggestions, contact <nose@kindledata.com>* 
