@@ -53,13 +53,13 @@ _Want to see an example?_
 	<div class="col-sm-6">
 		<div class="caption">
 			<b><a href="downloads/kindle_ebooks_top100_basic_datasheet.xls">
-			<img class="img-responsive thumbnail" src="/images/excel_32_icon.png">Top 100 Kindle Ebooks as at (date)(XLS)</a></b>
+			<img class="img-responsive thumbnail" src="/images/excel_32_icon.png">Top 100 Kindle Ebooks as at January 2018(XLS)</a></b>
 		</div>
 	</div>
 	<div class="col-sm-6">
 		<div class="caption">
 			<b><a href="downloads/kindle_ebooks_top100_basic_datasheet.txt">
-			<img class="img-responsive thumbnail" src="/images/text_32_icon.png">Top 100 Kindle Ebooks as at (date)(TXT)</a></b>
+			<img class="img-responsive thumbnail" src="/images/text_32_icon.png">Top 100 Kindle Ebooks as at January 2018(TXT)</a></b>
 		</div>
 	</div>
 </div>
