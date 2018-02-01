@@ -96,4 +96,4 @@ In a Kindle Data Report you get this in a spreadsheet or text file for _any_ of 
 
 Reports are updated every two weeks, giving you timely access to information.  Buy a single report for **USD20**, or [subscribe for access to everything](/subscribe/) for one price of **USD30/month**.
 
-*Payment and delivery of reports is handled securely by [Gumroad](https://gumroad.com/).  Learn about safe buying on Gumroad [here](https://help.gumroad.com/safe-buying-on-gumroad).  For questions, comments or suggestions, contact <nose@kdatareports.com>* 
+*Payment and delivery of reports is handled securely by [Gumroad](https://gumroad.com/).  Learn about safe buying on Gumroad [here](https://help.gumroad.com/safe-buying-on-gumroad).  For questions, comments or suggestions, contact <nose@kindledata.com>* 
