@@ -58,7 +58,7 @@ _Want to see an example?_
 	</div>
 	<div class="col-sm-6">
 		<div class="caption">
-			<b><a href="downloads/kindle_ebooks_top100_basic_datasheet.txt">
+			<b><a href="downloads/kindle_ebooks_top100_basic_datasheet.txt" target="_blank">
 			<img class="img-responsive thumbnail" src="/images/text_32_icon.png">Top 100 Kindle Ebooks as at January 2018(TXT)</a></b>
 		</div>
 	</div>
@@ -94,6 +94,6 @@ In a Kindle Data Report you get this in a spreadsheet or text file for _any_ of 
 <!-- /.row -->
 </div>	
 
-Reports are updated every two weeks, giving you timely access to information.  Buy a single report for **USD20**, or [subscribe for access to everything](/subscribe/) for one price of **USD30/month**.
+Reports are updated every two weeks (around the 1st and 15th of each month), giving you timely access to information.  Buy a single report for **USD20**, or [subscribe for access to everything](/subscribe/) for one price of **USD30/month**.
 
 *Payment and delivery of reports is handled securely by [Gumroad](https://gumroad.com/).  Learn about safe buying on Gumroad [here](https://help.gumroad.com/safe-buying-on-gumroad).  For questions, comments or suggestions, contact <nose@kdatareports.com> 

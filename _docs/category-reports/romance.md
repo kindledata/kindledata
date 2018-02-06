@@ -10,39 +10,14 @@ order: 1
     <th>Buy now</th>
   </tr>
   <tr>
-  <tr>
     <td>Romance Overall</td>
     <td><script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/158566011" target="_blank">Buy Romance Overall Category Report (USD20)</a></td>
+  <a class="gumroad-button" href="https://gum.co/158566011" target="_blank">Buy Romance Overall Category Report (USD20)</a></td>
   </tr>
-    <td>African American</td>
+   <tr>
+   <td>African American</td>
     <td><script src="https://gumroad.com/js/gumroad.js"></script>
     <a class="gumroad-button" href="https://gum.co/6190465011" target="_blank">Buy African American Romance Report (USD20)</a></td>
-  </tr>
-  <tr>
-    <td>Interracial and Multicultural</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/6487837011" target="_blank">Buy Interracial and Multicultural Romance Report (USD20)</a></td>
-  </tr>
-  <tr>
-    <td>LGBT</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/10886541011" target="_blank">Buy LGBT Romance Report (USD20)</a></td>
-  </tr>
-  <tr>
-    <td>Historical</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/158571011" target="_blank"> Buy Historical Romance Report (USD20)</a></td>
-  </tr>
-  <tr>
-      <td>Contemporary</td>
-      <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/158568011" target="_blank"> Buy Contemporary Romance Report (USD20)</a></td>
-  </tr>
-  <tr>
-      <td>Holidays</td>
-      <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/6487831011" target="_blank"> Buy Holidays Romance Report (USD20)</a></td>
   </tr>
   <tr>
       <td>Clean and Wholesome</td>
@@ -50,44 +25,24 @@ order: 1
   <a class="gumroad-button" href="https://gum.co/11650867011" target="_blank"> Buy Clean and Wholesome Romance Report (USD20)</a></td>
   </tr>
   <tr>
-      <td>Romantic Comedy</td>
+      <td>Contemporary</td>
       <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/6487841011" target="_blank"> Buy Romantic Comedy Report (USD20)</a></td>
+  <a class="gumroad-button" href="https://gum.co/158568011" target="_blank"> Buy Contemporary Romance Report (USD20)</a></td>
   </tr>
   <tr>
-      <td>New Adult and College</td>
+      <td>Gothic</td>
       <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/6487838011" target="_blank"> Buy New Adult and College Romance Report (USD20)</a></td>
+  <a class="gumroad-button" href="https://gum.co/6487830011" target="_blank"> Buy Gothic Romance Report (USD20)</a></td>
   </tr>
   <tr>
-      <td>Bisexual</td>
-      <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/10886542011" target="_blank"> Buy Bisexual Romance Report (USD20)</a></td>
+    <td>Historical</td>
+    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/158571011" target="_blank"> Buy Historical Romance Report (USD20)</a></td>
   </tr>
   <tr>
-      <td>Military</td>
+      <td>Holidays</td>
       <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/6487836011" target="_blank"> Buy Military Romance Report (USD20)</a></td>
-  </tr>
-  <tr>
-      <td>Mystery and Suspense</td>
-      <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/6487839011" target="_blank"> Buy Mystery and Suspense Romance Report (USD20)</a></td>
-  </tr>
-  <tr>
-      <td>Paranormal</td>
-      <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/GPbsV" target="_blank">Buy Paranormal Romance Report (USD20)</a></td>
-  </tr>
-  <tr>
-      <td>Sports</td>
-      <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/6487842011" target="_blank"> Buy Sports Romance Report (USD20)</a></td>
-  </tr>
-  <tr>
-      <td>Science Fiction</td>
-      <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/6401744011" target="_blank"> Buy Science Fiction Romance Report (USD20)</a></td>
+  <a class="gumroad-button" href="https://gum.co/6487831011" target="_blank"> Buy Holidays Romance Report (USD20)</a></td>
   </tr>
   <tr>
       <td>Gay Romance</td>
@@ -100,9 +55,49 @@ order: 1
   <a class="gumroad-button" href="https://gum.co/6487835011" target="_blank"> Buy Lesbian Romance Report (USD20)</a></td>
   </tr>
   <tr>
-      <td>Gothic</td>
+        <td>Bisexual</td>
+        <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <a class="gumroad-button" href="https://gum.co/10886542011" target="_blank"> Buy Bisexual Romance Report (USD20)</a></td>
+    </tr>
+  <tr>
+        <td>Military</td>
+        <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <a class="gumroad-button" href="https://gum.co/6487836011" target="_blank"> Buy Military Romance Report (USD20)</a></td>
+  </tr>
+  <tr>
+  <td>Interracial and Multicultural</td>
+    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/6487837011" target="_blank">Buy Interracial and Multicultural Romance Report (USD20)</a></td>
+  </tr>
+  <tr>
+      <td>Mystery and Suspense</td>
       <td><script src="https://gumroad.com/js/gumroad.js"></script>
-  <a class="gumroad-button" href="https://gum.co/6487830011" target="_blank"> Buy Gothic Romance Report (USD20)</a></td>
+  <a class="gumroad-button" href="https://gum.co/6487839011" target="_blank"> Buy Mystery and Suspense Romance Report (USD20)</a></td>
+  </tr>
+  <tr>
+      <td>New Adult and College</td>
+      <td><script src="https://gumroad.com/js/gumroad.js"></script>
+  <a class="gumroad-button" href="https://gum.co/6487838011" target="_blank"> Buy New Adult and College Romance Report (USD20)</a></td>
+  </tr>
+  <tr>
+      <td>Paranormal</td>
+      <td><script src="https://gumroad.com/js/gumroad.js"></script>
+  <a class="gumroad-button" href="https://gum.co/GPbsV" target="_blank">Buy Paranormal Romance Report (USD20)</a></td>
+  </tr>
+    <tr>
+        <td>Romantic Comedy</td>
+        <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <a class="gumroad-button" href="https://gum.co/6487841011" target="_blank"> Buy Romantic Comedy Report (USD20)</a></td>
+  </tr>
+    <tr>
+        <td>Science Fiction</td>
+        <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <a class="gumroad-button" href="https://gum.co/6401744011" target="_blank"> Buy Science Fiction Romance Report (USD20)</a></td>
+  </tr>
+  <tr>
+      <td>Sports</td>
+      <td><script src="https://gumroad.com/js/gumroad.js"></script>
+  <a class="gumroad-button" href="https://gum.co/6487842011" target="_blank"> Buy Sports Romance Report (USD20)</a></td>
   </tr>
   <tr>
       <td>Kindle Short Reads (2hr)</td>
@@ -113,7 +108,7 @@ order: 1
     <td></td>
     <td></td>
   </tr>
-</table>
+  </table>
 
 Category reports are updated every two weeks, and contain the following:
 
