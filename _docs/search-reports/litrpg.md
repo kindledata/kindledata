@@ -6,7 +6,6 @@ order: 1
 
 The LitRPG search report gives you detailed information on all titles returned by an Amazon keyword search for 'litRPG'.  
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/litrpg" target="_blank">Buy LitRPG Report (USD20)</a>
 
 It contains the following:

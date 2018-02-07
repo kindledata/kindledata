@@ -11,23 +11,23 @@ order: 3
   </tr>
   <tr>
     <td>Mystery, Thriller and Suspense Overall</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <td>
 <a class="gumroad-button" href="https://gum.co/157305011" target="_blank">Buy Mystery, Thriller and Suspense Report (USD20)</a></td>
   </tr>
   <tr>
     <td>Cozy Mystery</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <td>
 <a class="gumroad-button" href="https://gum.co/6190476011
 " target="_blank">Buy Cozy Mystery Report (USD20)</a></td>
   </tr>
   <tr>
     <td>Crime Fiction</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <td>
 <a class="gumroad-button" href="https://gum.co/6361460011" target="_blank">Buy Crime Fiction Report (USD20)</a></td>
   </tr>
   <tr>
     <td>Police Procedurals</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <td>
 <a class="gumroad-button" href="https://gum.co/157318011" target="_blank">Buy Police Procedurals Report (USD20)</a></td>
   </tr>
   <tr>

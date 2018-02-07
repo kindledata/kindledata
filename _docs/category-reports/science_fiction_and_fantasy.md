@@ -11,28 +11,28 @@ order: 4
   </tr>
   <tr>
     <td>Post-Apocalyptic</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <td>
 <a class="gumroad-button" href="https://gum.co/6361471011
 " target="_blank">Buy Post-Apocalyptic Report (USD20)</a></td>
   </tr>
   <tr>
     <td>Fairy Tales</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <td>
 <a class="gumroad-button" href="https://gum.co/7588857011" target="_blank">Buy Fairy Tales Report (USD20)</a></td>
   </tr>
   <tr>
     <td>Werewolves and Shifters</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <td>
 <a class="gumroad-button" href="https://gum.co/6401742011" target="_blank">Buy Werewolves and Shifters Report (USD20)</a></td>
   </tr>
   <tr>
     <td>Dystopian</td>
-    <td><script src="https://gumroad.com/js/gumroad.js"></script>
+    <td>
 <a class="gumroad-button" href="https://gum.co/6361470011" target="_blank">Buy Dystopian Report (USD20)</a></td>
   </tr>
     <tr>
       <td>Alternative History</td>
-      <td><script src="https://gumroad.com/js/gumroad.js"></script>
+      <td>
   <a class="gumroad-button" href="https://gum.co/6157855011" target="_blank">Buy Alternative History Report (USD20)</a></td>
   </tr>
   <tr>
