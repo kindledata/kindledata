@@ -12,23 +12,22 @@ order: 3
   <tr>
     <td>Mystery, Thriller and Suspense Overall</td>
     <td>
-<a class="gumroad-button" href="https://gum.co/157305011" target="_blank">Buy Mystery, Thriller and Suspense Report (USD20)</a></td>
+<a class="gumroad-button" href="https://gum.co/157305011" target="_blank" data-gumroad-single-product="true">Buy Mystery, Thriller and Suspense Report (USD20)</a></td>
   </tr>
   <tr>
     <td>Cozy Mystery</td>
     <td>
-<a class="gumroad-button" href="https://gum.co/6190476011
-" target="_blank">Buy Cozy Mystery Report (USD20)</a></td>
+<a class="gumroad-button" href="https://gum.co/6190476011" target="_blank" data-gumroad-single-product="true">Buy Cozy Mystery Report (USD20)</a></td>
   </tr>
   <tr>
     <td>Crime Fiction</td>
     <td>
-<a class="gumroad-button" href="https://gum.co/6361460011" target="_blank">Buy Crime Fiction Report (USD20)</a></td>
+<a class="gumroad-button" href="https://gum.co/6361460011" target="_blank" data-gumroad-single-product="true">Buy Crime Fiction Report (USD20)</a></td>
   </tr>
   <tr>
     <td>Police Procedurals</td>
     <td>
-<a class="gumroad-button" href="https://gum.co/157318011" target="_blank">Buy Police Procedurals Report (USD20)</a></td>
+<a class="gumroad-button" href="https://gum.co/157318011" target="_blank" data-gumroad-single-product="true">Buy Police Procedurals Report (USD20)</a></td>
   </tr>
   <tr>
     <td></td>
