@@ -6,7 +6,7 @@ order: 2
 
 The Reverse Harem search report gives you detailed information on all titles returned by an Amazon keyword search for 'reverse harem'.  
 
-<a class="gumroad-button" href="https://gum.co/reverseharem" target="_blank">Buy Reverse Harem Report (USD20)</a>
+<a href="https://gum.co/reverseharem" class="btn btn--m btn--gray" target="_blank">Buy Reverse Harem Report (USD20)</a>
 
 It contains the following:
 - **Search Result Information:** Summaries of all books returned by the search, price and KU status
