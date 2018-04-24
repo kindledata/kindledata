@@ -29,10 +29,15 @@ order: 4
     <td>
 <a class="btn btn--m btn--gray" href="https://gum.co/6361470011" target="_blank" data-gumroad-single-product="true">Buy Dystopian Report (USD20)</a></td>
   </tr>
-    <tr>
+  <tr>
       <td>Alternative History</td>
       <td>
   <a class="btn btn--m btn--gray" href="https://gum.co/6157855011" target="_blank" data-gumroad-single-product="true">Buy Alternative History Report (USD20)</a></td>
+  </tr>
+  <tr>
+      <td>Paranormal and Urban Fantasy</td>
+      <td>
+    <a class="btn btn--m btn--gray" href="https://gum.co/7006662011" target="_blank" data-gumroad-single-product="true">Buy Urban Fantasy Report (USD20)</a></td>
   </tr>
   <tr>
     <td></td>

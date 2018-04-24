@@ -99,6 +99,11 @@ order: 1
       <td>
   <a class="btn btn--m btn--gray" href="https://gum.co/6487842011" target="_blank" data-gumroad-single-product="true"> Buy Sports Romance Report (USD20)</a></td>
   </tr>
+    <tr>
+        <td>Westerns</td>
+        <td>
+    <a class="btn btn--m btn--gray" href="https://gum.co/6190489011" target="_blank" data-gumroad-single-product="true"> Buy Western Romance Report (USD20)</a></td>
+  </tr>
   <tr>
       <td>Kindle Short Reads (2hr)</td>
       <td>
